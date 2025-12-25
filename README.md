@@ -1,4 +1,4 @@
-                  # 🧠 CodeRacer
+                  🧠 CodeRacer
 
 
 
@@ -373,6 +373,7 @@ Live Execution and Screenshots
 * Cloud–local hybrid LLMs
 
  “CodeRacer is a gesture-controlled AI coding assistant that uses Retrieval-Augmented Generation to explain entire code, individual lines, and detect bugs in real time.”
+
 
 
 

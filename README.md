@@ -1,8 +1,12 @@
+                  # 🧠 CodeRacer
+
+
+
 <img width="983" height="825" alt="image" src="https://github.com/user-attachments/assets/dfc5d62a-ed50-4cca-88f5-e0233031c623" />
 <img width="912" height="601" alt="image" src="https://github.com/user-attachments/assets/189c5fc9-63c8-4662-bb3b-406f02f72afb" />
 
 <img width="961" height="616" alt="image" src="https://github.com/user-attachments/assets/f2d8f208-3bca-4339-8537-a39aed2b13a1" />
-# 🧠 CodeRacer
+
 
 ## Interactive Gesture-Based Coding Assistant using RAG & LLMs
 
@@ -344,6 +348,7 @@ Live Execution and Screenshots
 <img width="862" height="753" alt="Screenshot 2025-12-25 180233" src="https://github.com/user-attachments/assets/f6cdc09a-965d-414a-804f-a3a3f0bafcf7" />
 <img width="910" height="800" alt="Screenshot 2025-12-25 180428" src="https://github.com/user-attachments/assets/8569cd29-20e8-4326-94fc-b20a4129a1ab" />
 <img width="953" height="969" alt="Screenshot 2025-12-25 180446" src="https://github.com/user-attachments/assets/e31bbf4e-02b8-42ed-bae4-9f455369383d" />
+<img width="914" height="763" alt="Screenshot 2025-12-25 180122" src="https://github.com/user-attachments/assets/aff422b1-ac1d-409d-83b2-18b48f15d350" />
 
 <img width="986" height="983" alt="Screenshot 2025-12-25 180433" src="https://github.com/user-attachments/assets/5bdfff0e-b88d-4534-ae5c-26072e2feb1c" />
 <img width="538" height="388" alt="image" src="https://github.com/user-attachments/assets/6f3af86e-08cc-4a69-9d35-50693a342d87" />
@@ -368,5 +373,6 @@ Live Execution and Screenshots
 * Cloud–local hybrid LLMs
 
  “CodeRacer is a gesture-controlled AI coding assistant that uses Retrieval-Augmented Generation to explain entire code, individual lines, and detect bugs in real time.”
+
 
 

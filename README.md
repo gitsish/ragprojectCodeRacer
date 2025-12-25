@@ -334,6 +334,20 @@ Live Execution and Screenshots
 <img width="1336" height="243" alt="Screenshot 2025-09-07 090919" src="https://github.com/user-attachments/assets/47c768d3-813d-4b39-83f6-d25889deb390" />
 
 <img width="773" height="637" alt="Screenshot 2025-09-07 163510" src="https://github.com/user-attachments/assets/cd2c4019-be3c-4444-a889-89d99666567e" />
+<img width="1328" height="519" alt="image" src="https://github.com/user-attachments/assets/b16b0e3f-ec8c-4523-87d9-34cb9f5232ec" />
+<img width="1912" height="1014" alt="image" src="https://github.com/user-attachments/assets/1dbc802e-ba38-4e8f-b406-d2c7c7f14b51" />
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/f1963f19-e78b-43ea-9420-08358f074fc3" />
+<img width="862" height="753" alt="image" src="https://github.com/user-attachments/assets/1f27dff5-cde5-42c5-847d-49c59c12e3ee" />
+<img width="942" height="935" alt="Screenshot 2025-12-25 180005" src="https://github.com/user-attachments/assets/9a373e4e-5690-45d8-806d-ae2d0f695036" />
+<img width="915" height="975" alt="Screenshot 2025-12-25 180112" src="https://github.com/user-attachments/assets/04f7bca3-b097-46d0-b13c-bde642f49356" />
+<img width="862" height="753" alt="Screenshot 2025-12-25 180233" src="https://github.com/user-attachments/assets/f6cdc09a-965d-414a-804f-a3a3f0bafcf7" />
+<img width="910" height="800" alt="Screenshot 2025-12-25 180428" src="https://github.com/user-attachments/assets/8569cd29-20e8-4326-94fc-b20a4129a1ab" />
+<img width="953" height="969" alt="Screenshot 2025-12-25 180446" src="https://github.com/user-attachments/assets/e31bbf4e-02b8-42ed-bae4-9f455369383d" />
+
+<img width="986" height="983" alt="Screenshot 2025-12-25 180433" src="https://github.com/user-attachments/assets/5bdfff0e-b88d-4534-ae5c-26072e2feb1c" />
+<img width="538" height="388" alt="image" src="https://github.com/user-attachments/assets/6f3af86e-08cc-4a69-9d35-50693a342d87" />
+<img width="509" height="272" alt="image" src="https://github.com/user-attachments/assets/1c602091-87f8-47cf-9647-be6fef8db70b" />
 
 
 ## 🌍 Real-World Impact
@@ -354,4 +368,5 @@ Live Execution and Screenshots
 * Cloud–local hybrid LLMs
 
  “CodeRacer is a gesture-controlled AI coding assistant that uses Retrieval-Augmented Generation to explain entire code, individual lines, and detect bugs in real time.”
+
 
